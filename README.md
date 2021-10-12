@@ -6,6 +6,10 @@
   Gerencie suas finanças de uma forma simples e eficaz.
 </h3>
 
+<h4 align="center">
+  Projeto construído durante a Trilha React do Ignite da Rocketseat
+</h4>
+
 ---
 
 ## Screenshots
